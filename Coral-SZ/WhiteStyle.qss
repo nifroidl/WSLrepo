@@ -1,0 +1,7 @@
+QToolButton
+{
+        color: #fff;
+        border: 1px solid #777777;
+        padding: 2px;
+        image: url(./resources/folder-open-solid.svg);
+}

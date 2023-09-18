@@ -1,0 +1,18 @@
+{
+    "files": [
+        "form.ui",
+        "scripte/quantize_model.py",
+        "scripte/tools/__init__.py",
+        "scripte/replace_file_format.py",
+        "scripte/split_dataset.py",
+        "scripte/run_training_efficientdetlite.py",
+        "WhiteStyle.qss",
+        "scripte/tools/utilities.py",
+        "scripte/png2jpg.py",
+        "scripte/compile_edge_tpu.py",
+        "scripte/getBoardIpAddress.py",
+        "DarkStyle.qss",
+        "mainwindow.py",
+        "dialogConnectDevice.ui"
+    ]
+}

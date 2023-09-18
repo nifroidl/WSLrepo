@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://raw.githubusercontent.com/google-coral/test_data/release-frogfish/imagenet_labels.txt
